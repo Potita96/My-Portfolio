@@ -1,6 +1,7 @@
 # My-Portfolio
 
-![Uploading image.png…]()
+<img width="1919" height="1061" alt="image" src="https://github.com/user-attachments/assets/c6a1babb-1869-4ab7-9650-7ed71c5bce8f" />
+
 
 Personal portfolio website by [Potita96](https://github.com/Potita96).  
 Live demo: https://kavya-portfolio-eight.vercel.app
